@@ -37,4 +37,4 @@ MIT License
 
 If you use this repository, please cite:
 
-Lashhab, F., 2026. Simulation-to-Hardware Validation of a Model-Based Pick-and-Place Pipeline.
+Lashhab, F., 2026. Simulation-to-Hardware Validation of a Model-Based Pick-and-Place Pipeline for a 4-DOF Robotic Manipulator Using Digital Twin and Physical QArm Hardware
