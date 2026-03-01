@@ -32,3 +32,9 @@ Validated in both QLabs digital twin and physical AVRC Lab hardware.
 ## License
 
 MIT License
+
+## Citation
+
+If you use this repository, please cite:
+
+Lashhab, F., 2026. Simulation-to-Hardware Validation of a Model-Based Pick-and-Place Pipeline.
