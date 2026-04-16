@@ -38,3 +38,9 @@ MIT License
 If you use this repository, please cite:
 
 Lashhab, F., 2026. Simulation-to-Hardware Validation of a Model-Based Pick-and-Place Pipeline for a 4-DOF Robotic Manipulator Using Digital Twin and Physical QArm Hardware
+
+## Experimental Media
+
+A demonstration video of the physical QArm pick-and-place experiment is available at the following link:
+
+[Hardware Demonstration Video (IMG_4622.mov)](https://howardu-my.sharepoint.com/personal/fadel_lashhab_howard_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffadel_lashhab_howard_edu%2FDocuments%2FAttachments%2FIMG_4622.mov&ct=1776307582383&or=OWA-NT-Mail&cid=f9effcf7-02c5-2868-c4e6-745720dfecf5&ga=1&LOF=1&startedResponseCatch=true&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.1be5ce60-85c6-468a-9cc7-7cc1e386b39c)
