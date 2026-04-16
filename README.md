@@ -41,6 +41,9 @@ Lashhab, F., 2026. Simulation-to-Hardware Validation of a Model-Based Pick-and-P
 
 ## Experimental Media
 
-A demonstration video of the physical QArm pick-and-place experiment is available at the following link:
+This repository includes code, supporting figures, and external media for simulation-to-hardware validation of the QArm pick-and-place pipeline.
 
-[Hardware Demonstration Video (IMG_4622.mov)](https://howardu-my.sharepoint.com/personal/fadel_lashhab_howard_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffadel_lashhab_howard_edu%2FDocuments%2FAttachments%2FIMG_4622.mov&ct=1776307582383&or=OWA-NT-Mail&cid=f9effcf7-02c5-2868-c4e6-745720dfecf5&ga=1&LOF=1&startedResponseCatch=true&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.1be5ce60-85c6-468a-9cc7-7cc1e386b39c)
+### Videos
+- [Physical QArm pick-and-place demonstration video 1](https://howardu-my.sharepoint.com/personal/fadel_lashhab_howard_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffadel_lashhab_howard_edu%2FDocuments%2FAttachments%2FIMG_4622.mov&ct=1776307582383&or=OWA-NT-Mail&cid=f9effcf7-02c5-2868-c4e6-745720dfecf5&ga=1&LOF=1&startedResponseCatch=true&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.1be5ce60-85c6-468a-9cc7-7cc1e386b39c)
+- [Physical QArm pick-and-place demonstration video 2](https://howardu-my.sharepoint.com/personal/fadel_lashhab_howard_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffadel%5Flashhab%5Fhoward%5Fedu%2FDocuments%2FAttachments%2FIMG%5F4594%2Emov&ct=1776307972195&or=OWA%2DNT%2DMail&cid=8bc11b83%2D8e1e%2D55e6%2D90b7%2Dcf3465e81c69&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E475a2684%2D7140%2D413b%2D95e9%2D61a4f376fd92)
+- [Physical QArm pick-and-place demonstration video 3](https://howardu-my.sharepoint.com/personal/fadel_lashhab_howard_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffadel%5Flashhab%5Fedu%2FDocuments%2FAttachments%2FIMG%5F4595%2Emov&ct=1776308065401&or=OWA%2DNT%2DMail&cid=6ac0a535%2D5a73%2D0ce4%2D68e4%2D874748ee6025&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee61f0a50%2Dd1fb%2D46d4%2D86bc%2Dffce1728e984)
